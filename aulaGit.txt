@@ -1,0 +1,39 @@
+git log --oneline :  navega entre os repositorio
+e  : vai para o repositorio que deseja modifica
+git status mostra o status 
+git commit : vai para o repositorio (staging are 2 estagio)
+git add: nova altração  (working directory 1) 
+pode estar nos dois status
+git restory --staged [nome do aquivo]
+git restory volta a alteraçao 
+git reset --hard aquivos ratreados ou nao no staging are
+git restore staging
+
+---------------------------------------------------------20/03/23----------------------------------------------------------------------
+git config --list : mostra as configuraçoes 
+
+git config --global user.name "nome"
+
+git config --global user.email"email@email.com"
+
+git init : criar um repositorio 
+
+dir -a : mostra as pastas oculta
+dir .git : mostra o conteudo
+cd.git : navega para a pasta
+find . :mostra a subpasta
+git branch -m master main
+git add -al: ou
+git add . adiciona outro repositorio add tudo
+git commit -m <message>: confirma as alteraçao g
+git diff ele compara com o comit excuta os comandos
+
+chave::
+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
+
+
+
+
+
+
+

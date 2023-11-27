@@ -1,0 +1,33 @@
+** ponteiro
+e quando passo o ponteiro pro ponteiro 
+------------------------------------------------
+lista duplamente encadeada 
+e para quando quero saber quem é o anterior 
+primeiro e ultimo aponta para nulo
+posso apontar um e depois apontar o outro na mesma 
+
+pontLista.prox.prox.ant
+
+posso navegar e pegar o endereço que quiser
+      x
+    /   \
+a-> c-> d->nulo
+
+posso colocar com um laço de repetiçao
+
+se possui uma lista e vou ficar atualizando o que eu addd ou removo atulizo ++ ou o --
+------------------------------------------------
+pont
+a-> c-> d->nulo
+pont.elo.elo vai para o c
+
+-------------------------------------------------
+lista duplamente encadeada circular
+
+----------------------------------------------
+push
+pop
+primeiro  que entrou primeiro que sai
+ultimo que entrou ultimo que sai
+
+
